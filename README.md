@@ -10,6 +10,18 @@ Diseña una pantalla de 'Inicio de Sesión' en Flutter con estética oscura. El 
 pantalla3
 Crea una pantalla de 'Registro' en Flutter que use un SingleChildScrollView para evitar errores de desbordamiento. La pantalla debe tener 5 campos de texto verticales con fondo rojo y letras blancas (Usuario, Celular, Correo, Contraseña y Confirmar Contraseña). Cada campo debe incluir un icono descriptivo blanco. Al final del formulario, coloca un botón grande de color rojo que diga 'CREAR CUENTA' y, debajo de este, un TextButton sencillo en color blanco que diga 'Cancelar' para regresar a la pantalla anterior. Incluye la flecha de navegación hacia atrás en la AppBar negra.
 
+<img width="1221" height="692" alt="image" src="https://github.com/user-attachments/assets/f686abb9-3935-4550-9f32-c27b4bfed7aa" />
+<img width="1228" height="688" alt="image" src="https://github.com/user-attachments/assets/4b44a114-483f-42e1-8cef-d1c7f896f7ba" />
+<img width="1221" height="682" alt="image" src="https://github.com/user-attachments/assets/5d5e6f57-519a-4d64-aca4-4cbaf40d79fb" />
+<img width="371" height="613" alt="image" src="https://github.com/user-attachments/assets/f8b08bb4-7411-4dda-937f-ca96dfdb2e96" />
+<img width="374" height="643" alt="image" src="https://github.com/user-attachments/assets/a3c50320-a8cf-4c4e-8b2d-569307ef0213" />
+<img width="359" height="652" alt="image" src="https://github.com/user-attachments/assets/8ba02daf-e537-4200-9861-db375e8c22b3" />
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
